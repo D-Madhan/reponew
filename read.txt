@@ -1,3 +1,7 @@
 12 Nov
 resigned
+HEAD
 new day
+blabla
+next ceo
+8da951c (c3)
